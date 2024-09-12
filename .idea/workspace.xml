@@ -5,35 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16a638a2-91b6-4b9a-8a34-fdaefa54a926" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PsxFinder CrtMtd edition.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.Video.mp4/HappyHiko!.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.Video.mp4/Motivatoin.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.Video.mp4/TowardTheSun.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.pictute.OneShot/.Niko/.niko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.pictute.OneShot/Memes/I HATE R34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.song.ogg/Aviator.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.song.ogg/Collapse.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.song.ogg/EleventhHour.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.song.ogg/MyBurdenIsDead.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.song.ogg/MyBurdenIsLight.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.song.ogg/OnLittleCatFeet.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.song.ogg/Phosphor.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.song.ogg/SelfContainedUniverse.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.song.ogg/SomeplaceIKnow.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.song.ogg/ambience.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.song.ogg/ambience2.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.song.ogg/ambience3.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.song.ogg/ambience4.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.song.ogg/computer_room.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.song.ogg/puzzle-solved-remix.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content.song.ogg/unreality.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
